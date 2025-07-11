@@ -1,0 +1,4472 @@
+MAP
+  EXTENT 461485.132 5885077.482 588010.382 6011602.732
+  FONTSET "fonts/fonts.txt"
+  IMAGETYPE "png"
+  MAXSIZE 20480
+  NAME "ALKIS"
+  SIZE 400 400
+  STATUS ON
+  UNITS METERS
+
+  OUTPUTFORMAT
+    NAME "png"
+    MIMETYPE "image/png"
+    DRIVER "GD/PNG"
+    EXTENSION "png"
+    IMAGEMODE RGB
+    TRANSPARENT FALSE
+  END # OUTPUTFORMAT
+
+  SYMBOL
+    NAME "0"
+    TYPE ELLIPSE
+    FILLED TRUE
+    POINTS
+      1 1
+      1 1
+    END
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3302_1"
+    TYPE SVG
+    IMAGE "svg/alkis3302_1.svg"
+    ANCHORPOINT 0.500636 0.500449
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3303_1"
+    TYPE SVG
+    IMAGE "svg/alkis3303_1.svg"
+    ANCHORPOINT 0.50046 0.500375
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3309_1"
+    TYPE SVG
+    IMAGE "svg/alkis3309_1.svg"
+    ANCHORPOINT 0.500636 0.500361
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3311_1"
+    TYPE SVG
+    IMAGE "svg/alkis3311_1.svg"
+    ANCHORPOINT 0.500636 0.500449
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3314_1"
+    TYPE SVG
+    IMAGE "svg/alkis3314_1.svg"
+    ANCHORPOINT 0.509087 0.49849
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3315_1"
+    TYPE SVG
+    IMAGE "svg/alkis3315_1.svg"
+    ANCHORPOINT 0.500636 0.500449
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3316_1"
+    TYPE SVG
+    IMAGE "svg/alkis3316_1.svg"
+    ANCHORPOINT 0.500577 0.500224
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3317_1"
+    TYPE SVG
+    IMAGE "svg/alkis3317_1.svg"
+    ANCHORPOINT 0.501051 0.500655
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3318_1"
+    TYPE SVG
+    IMAGE "svg/alkis3318_1.svg"
+    ANCHORPOINT 0.501958 0.500747
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3319_1"
+    TYPE SVG
+    IMAGE "svg/alkis3319_1.svg"
+    ANCHORPOINT 0.497051 0.500443
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3321_1"
+    TYPE SVG
+    IMAGE "svg/alkis3321_1.svg"
+    ANCHORPOINT 0.500636 0.500449
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3323_1"
+    TYPE SVG
+    IMAGE "svg/alkis3323_1.svg"
+    ANCHORPOINT 0.500636 0.500361
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3324_1"
+    TYPE SVG
+    IMAGE "svg/alkis3324_1.svg"
+    ANCHORPOINT 0.500636 0.500449
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3326_1"
+    TYPE SVG
+    IMAGE "svg/alkis3326_1.svg"
+    ANCHORPOINT 0.500636 0.500449
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3336_1"
+    TYPE SVG
+    IMAGE "svg/alkis3336_1.svg"
+    ANCHORPOINT 0.500636 0.500361
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3527_1"
+    TYPE SVG
+    IMAGE "svg/alkis3527_1.svg"
+    ANCHORPOINT 0.500854 0.500601
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3529_1"
+    TYPE SVG
+    IMAGE "svg/alkis3529_1.svg"
+    ANCHORPOINT 0.501193 0.500834
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3532_1"
+    TYPE SVG
+    IMAGE "svg/alkis3532_1.svg"
+    ANCHORPOINT 0.498529 0.962783
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3580_1"
+    TYPE SVG
+    IMAGE "svg/alkis3580_1.svg"
+    ANCHORPOINT 0.5 1
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3601_1"
+    TYPE SVG
+    IMAGE "svg/alkis3601_1.svg"
+    ANCHORPOINT 0.502125 0.517478
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3627_1"
+    TYPE SVG
+    IMAGE "svg/alkis3627_1.svg"
+    ANCHORPOINT 0.497756 0.515259
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3632_1"
+    TYPE SVG
+    IMAGE "svg/alkis3632_1.svg"
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3330_1"
+    TYPE SVG
+    IMAGE "svg/alkis3330_1.svg"
+    ANCHORPOINT 0.500577 0.500418
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3424_1"
+    TYPE SVG
+    IMAGE "svg/alkis3424_1.svg"
+    ANCHORPOINT 0.500636 0.500449
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3426_1"
+    TYPE SVG
+    IMAGE "svg/alkis3426_1.svg"
+    ANCHORPOINT 0.500636 0.500449
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3428_1"
+    TYPE SVG
+    IMAGE "svg/alkis3428_1.svg"
+    ANCHORPOINT 0.500636 0.500449
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3432_1"
+    TYPE SVG
+    IMAGE "svg/alkis3432_1.svg"
+    ANCHORPOINT 0.500636 0.49008
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3436_1"
+    TYPE SVG
+    IMAGE "svg/alkis3436_1.svg"
+    ANCHORPOINT 0.50027 0.500187
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3578_1"
+    TYPE SVG
+    IMAGE "svg/alkis3578_1.svg"
+    ANCHORPOINT 0.500989 0.500704
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3590_1"
+    TYPE SVG
+    IMAGE "svg/alkis3590_1.svg"
+    ANCHORPOINT 0.500558 0.448328
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3637_1"
+    TYPE SVG
+    IMAGE "svg/alkis3637_1.svg"
+    ANCHORPOINT 0.1589 0.500574
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3413_1"
+    TYPE SVG
+    IMAGE "svg/alkis3413_1.svg"
+    ANCHORPOINT 0.494723 0.505226
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3421_1"
+    TYPE SVG
+    IMAGE "svg/alkis3421_1.svg"
+    ANCHORPOINT 0.501585 0.495007
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3446_1"
+    TYPE SVG
+    IMAGE "svg/alkis3446_1.svg"
+    ANCHORPOINT 0.469643 0.522161
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3448_1"
+    TYPE SVG
+    IMAGE "svg/alkis3448_1.svg"
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3450_1"
+    TYPE SVG
+    IMAGE "svg/alkis3450_1.svg"
+    ANCHORPOINT 0.497105 0.522161
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3458_1"
+    TYPE SVG
+    IMAGE "svg/alkis3458_1.svg"
+    ANCHORPOINT 0.476416 0.500666
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3460_1"
+    TYPE SVG
+    IMAGE "svg/alkis3460_1.svg"
+    ANCHORPOINT 0.464856 0.549525
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3462_1"
+    TYPE SVG
+    IMAGE "svg/alkis3462_1.svg"
+    ANCHORPOINT 0.483654 0.500419
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3470_1"
+    TYPE SVG
+    IMAGE "svg/alkis3470_1.svg"
+    ANCHORPOINT 0.500584 0.565582
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3474_1"
+    TYPE SVG
+    IMAGE "svg/alkis3474_1.svg"
+    ANCHORPOINT 0.501122 0.501168
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3476_1"
+    TYPE SVG
+    IMAGE "svg/alkis3476_1.svg"
+    ANCHORPOINT 0.50103 0.50143
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3478_1"
+    TYPE SVG
+    IMAGE "svg/alkis3478_1.svg"
+    ANCHORPOINT 0.500404 0.50216
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3480_1"
+    TYPE SVG
+    IMAGE "svg/alkis3480_1.svg"
+    ANCHORPOINT 0.517938 0.500561
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3484_1"
+    TYPE SVG
+    IMAGE "svg/alkis3484_1.svg"
+    ANCHORPOINT 0.496974 0.500747
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3597_1"
+    TYPE SVG
+    IMAGE "svg/alkis3597_1.svg"
+    ANCHORPOINT 0.498513 0.962334
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3599_1"
+    TYPE SVG
+    IMAGE "svg/alkis3599_1.svg"
+    ANCHORPOINT 0.504089 0.959886
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3603_1"
+    TYPE SVG
+    IMAGE "svg/alkis3603_1.svg"
+    ANCHORPOINT 0.501051 0.561223
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3482_1"
+    TYPE SVG
+    IMAGE "svg/alkis3482_1.svg"
+    ANCHORPOINT 0.504472 0.5007
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3488_1"
+    TYPE SVG
+    IMAGE "svg/alkis3488_1.svg"
+    ANCHORPOINT 0.500528 0.492563
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3490_1"
+    TYPE SVG
+    IMAGE "svg/alkis3490_1.svg"
+    ANCHORPOINT 0.506078 0.484778
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3593_1"
+    TYPE SVG
+    IMAGE "svg/alkis3593_1.svg"
+    ANCHORPOINT 0.500158 0.500549
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3594_1"
+    TYPE SVG
+    IMAGE "svg/alkis3594_1.svg"
+    ANCHORPOINT 0.500868 0.500549
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3653_1"
+    TYPE SVG
+    IMAGE "svg/alkis3653_1.svg"
+    ANCHORPOINT 0.500528 0.501874
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3403_1"
+    TYPE SVG
+    IMAGE "svg/alkis3403_1.svg"
+    ANCHORPOINT 0.500432 0.500306
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3404_1"
+    TYPE SVG
+    IMAGE "svg/alkis3404_1.svg"
+    ANCHORPOINT 0.500432 0.500306
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3407_1"
+    TYPE SVG
+    IMAGE "svg/alkis3407_1.svg"
+    ANCHORPOINT 0.500255 0.50051
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3501_1"
+    TYPE SVG
+    IMAGE "svg/alkis3501_1.svg"
+    ANCHORPOINT 0.49882 0.963436
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3502_1"
+    TYPE SVG
+    IMAGE "svg/alkis3502_1.svg"
+    ANCHORPOINT 0.500951 0.500514
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3504_1"
+    TYPE SVG
+    IMAGE "svg/alkis3504_1.svg"
+    ANCHORPOINT 0.501447 0.501024
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3506_1"
+    TYPE SVG
+    IMAGE "svg/alkis3506_1.svg"
+    ANCHORPOINT 0.497927 0.963488
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3508_1"
+    TYPE SVG
+    IMAGE "svg/alkis3508_1.svg"
+    ANCHORPOINT 0.500951 0.500666
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3512_1"
+    TYPE SVG
+    IMAGE "svg/alkis3512_1.svg"
+    ANCHORPOINT 0.731318 0.837837
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3513_1"
+    TYPE SVG
+    IMAGE "svg/alkis3513_1.svg"
+    ANCHORPOINT 0.500528 0.500443
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3514_1"
+    TYPE SVG
+    IMAGE "svg/alkis3514_1.svg"
+    ANCHORPOINT 0.500139 0.974785
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3521_1"
+    TYPE SVG
+    IMAGE "svg/alkis3521_1.svg"
+    ANCHORPOINT 0.496556 0.500609
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3522_1"
+    TYPE SVG
+    IMAGE "svg/alkis3522_1.svg"
+    ANCHORPOINT 0.500989 0.500704
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3409_1"
+    TYPE SVG
+    IMAGE "svg/alkis3409_1.svg"
+    ANCHORPOINT 0.500432 0.500306
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3410_1"
+    TYPE SVG
+    IMAGE "svg/alkis3410_1.svg"
+    ANCHORPOINT 0.500432 0.500306
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3411_1"
+    TYPE SVG
+    IMAGE "svg/alkis3411_1.svg"
+    ANCHORPOINT 0.500432 0.500306
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3412_1"
+    TYPE SVG
+    IMAGE "svg/alkis3412_1.svg"
+    ANCHORPOINT 0.469603 0.500298
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3415_1"
+    TYPE SVG
+    IMAGE "svg/alkis3415_1.svg"
+    ANCHORPOINT 0.492308 0.558396
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3419_1"
+    TYPE SVG
+    IMAGE "svg/alkis3419_1.svg"
+    ANCHORPOINT 0.500613 0.500359
+  END
+
+  SYMBOL
+    NAME "norGIS_alkis3423_1"
+    TYPE SVG
+    IMAGE "svg/alkis3423_1.svg"
+    ANCHORPOINT 0.500432 0.500306
+  END
+
+  PROJECTION
+    "init=epsg:25832"
+  END # PROJECTION
+  LEGEND
+    KEYSIZE 20 10
+    KEYSPACING 5 5
+    LABEL
+      FONT "arial"
+      SIZE 10
+      OFFSET 0 0
+      SHADOWSIZE 1 1
+    END # LABEL
+    STATUS OFF
+  END # LEGEND
+
+  QUERYMAP
+    STATUS OFF
+    STYLE HILITE
+  END # QUERYMAP
+
+  SCALEBAR
+    INTERVALS 4
+    LABEL
+      SIZE 10
+      OFFSET 0 0
+      SHADOWSIZE 1 1
+    END # LABEL
+    SIZE 200 3
+    STATUS OFF
+    UNITS MILES
+  END # SCALEBAR
+
+  WEB
+    METADATA
+      "wms_enable_request"	"*"
+      "ows_enable_request"	"*"
+      "wms_feature_info_mime_type"	"text/html"
+      "wfs_enable_request"	"*"
+      "wms_encoding"	"UTF-8"
+      "wms_title"	"ALKIS"
+    END # METADATA
+  END # WEB
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_flaeche AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Friedhöfe\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT sn_flaeche IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 25000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Friedhöfe / Flächen"
+      "wms_layer_group"	"/Friedhöfe"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"100"
+      "gml_geom_type"	"multipolygon"
+      "norGIS_maxprio"	"100"
+      "norGIS_zindex"	"100"
+      "wfs_title"	"Flächen"
+      "norGIS_oldindex"	"24"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Flächen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l77"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "[1405]"
+      EXPRESSION "1405"
+      STYLE
+        COLOR 224 255 216
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_flaeche AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Vegetation\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT sn_flaeche IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 25000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Vegetation / Flächen"
+      "wms_layer_group"	"/Vegetation"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"100"
+      "gml_geom_type"	"multipolygon"
+      "norGIS_maxprio"	"100"
+      "norGIS_zindex"	"100"
+      "wfs_title"	"Flächen"
+      "norGIS_oldindex"	"27"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Flächen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l82"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "Brachland, Heide, Moor, Sumpf, Torf"
+      EXPRESSION "1404"
+      STYLE
+        COLOR 242 234 232
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Garten"
+      EXPRESSION "1406"
+      STYLE
+        COLOR 234 255 211
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Ackerland"
+      EXPRESSION "1409"
+      STYLE
+        COLOR 255 247 191
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Wald"
+      EXPRESSION "1414"
+      STYLE
+        COLOR 216 255 216
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_flaeche AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Wohnbauflächen\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT sn_flaeche IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 500000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Wohnbauflächen / Flächen"
+      "wms_layer_group"	"/Wohnbauflächen"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"100"
+      "gml_geom_type"	"multipolygon"
+      "norGIS_maxprio"	"100"
+      "norGIS_zindex"	"100"
+      "wfs_title"	"Flächen"
+      "norGIS_oldindex"	"45"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Flächen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l106"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "Wohnbaufläche"
+      EXPRESSION "1401"
+      STYLE
+        COLOR 255 234 244
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_randlinie AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Vegetation\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT polygon IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Vegetation / Grenzen"
+      "wms_layer_group"	"/Vegetation"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"104"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"107"
+      "norGIS_zindex"	"105"
+      "wfs_title"	"Grenzen"
+      "norGIS_oldindex"	"28"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Grenzen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l83"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME '{"Baumbestand, Laub- und Nadelholz","Baumbestand, Laubholz","Baumbestand, Nadelholz",Gebüsch,"Gehölz (Vegetationsmerkmal)",Gras,Korbweide,Reet,"Röhricht, Schilf",Zierfläche}'
+      EXPRESSION "rn1560"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 255 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Ackerland"
+      EXPRESSION "2515"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 153 153 153
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Wald"
+      EXPRESSION "2517"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 255 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_randlinie AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Friedhöfe\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT polygon IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Friedhöfe / Grenzen"
+      "wms_layer_group"	"/Friedhöfe"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"106"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"106"
+      "norGIS_zindex"	"106"
+      "wfs_title"	"Grenzen"
+      "norGIS_oldindex"	"25"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Grenzen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l78"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "[2515]"
+      EXPRESSION "2515"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 153 153 153
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_randlinie AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Wohnbauflächen\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT polygon IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Wohnbauflächen / Grenzen"
+      "wms_layer_group"	"/Wohnbauflächen"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"106"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"106"
+      "norGIS_zindex"	"106"
+      "wfs_title"	"Grenzen"
+      "norGIS_oldindex"	"46"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Grenzen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l107"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "[2515]"
+      EXPRESSION "2515"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 153 153 153
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_randlinie AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Sport und Freizeit\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT polygon IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Sport und Freizeit / Grenzen"
+      "wms_layer_group"	"/Sport und Freizeit"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"106"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"200"
+      "norGIS_zindex"	"137"
+      "wfs_title"	"Grenzen"
+      "norGIS_oldindex"	"42"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Grenzen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l102"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "[2515]"
+      EXPRESSION "2515"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 153 153 153
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Überdachte Tribüne"
+      EXPRESSION "rn1519"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 81 0 0
+        PATTERN
+         2.00 1.00
+        END # PATTERN
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Hart-, Rasenplatz, Spielfeld"
+      EXPRESSION "rn1520"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 81 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "[1524]"
+      EXPRESSION "rn1524"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 81 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Schwimmbecken"
+      EXPRESSION "rn1526"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 204 204
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Rennbahn, Laufbahn, Geläuf"
+      EXPRESSION "rn1521"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 81 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_flaeche AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Sport und Freizeit\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT sn_flaeche IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 500000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Sport und Freizeit / Flächen"
+      "wms_layer_group"	"/Sport und Freizeit"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"100"
+      "gml_geom_type"	"multipolygon"
+      "norGIS_maxprio"	"200"
+      "norGIS_zindex"	"138"
+      "wfs_title"	"Flächen"
+      "norGIS_oldindex"	"41"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Flächen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l101"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "[1405]"
+      EXPRESSION "1405"
+      STYLE
+        COLOR 224 255 216
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Überdachte Tribüne"
+      EXPRESSION "1519"
+      STYLE
+        COLOR 255 127 127
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Hart-, Rasenplatz, Spielfeld"
+      EXPRESSION "1520"
+      STYLE
+        COLOR 216 255 216
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Schwimmbecken"
+      EXPRESSION "1526"
+      STYLE
+        COLOR 226 255 255
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Rennbahn, Laufbahn, Geläuf"
+      EXPRESSION "1521"
+      STYLE
+        COLOR 255 234 244
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_randlinie AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Gewässer\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT polygon IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gewässer / Grenzen"
+      "wms_layer_group"	"/Gewässer"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"103"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"300"
+      "norGIS_zindex"	"161"
+      "wfs_title"	"Grenzen"
+      "norGIS_oldindex"	"32"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Grenzen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l92"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME '{"Stehendes Gewässer, nicht ständig Wasser führend"}'
+      EXPRESSION "2520"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 204 204
+        PATTERN
+         4.00 2.00
+        END # PATTERN
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{"Damm, Wall, Deich","Felsen, Felsblock, Felsnadel",Rückhaltebecken,"Sonstiges Gewässermerkmal",Staudamm,"Staudamm, außer Betrieb"}'
+      EXPRESSION "rn1551"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 81 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Gewässer"
+      EXPRESSION "2518"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 204 204
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{"Hafendamm, Mole","Wellenbrecher, Buhne"}'
+      EXPRESSION "rn1308"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{Bach,Fleet,Graben,Priel,Teich,"Untergeordnetes Gewässer"}'
+      EXPRESSION "rn1523"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 204 204
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Fischtreppe, Sicherheitstor, Sperrwerk"
+      EXPRESSION "rn1548"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 153 153 153
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{Antenne,Brückenlaufkran,Drehkran,Einsteigeschacht,Freitreppe,Funkmast,"Historische Mauer",Hochofen,Kran,Laufkran,Mauer,Portalkran,Radioteleskop,Rampe,Rolltreppe,Schachtöffnung,Schöpfwerk,Solarzellen,"Sonstige historische Mauer","Sonstiges Bauwerk oder sonstige Anlage für Industrie und Gewerbe",Stadtmauer,Staumauer,"Staumauer, außer Betrieb",Stützmauer,Terrasse,Treppe,Trockendock,"Vorratsbehälter, Speicherbauwerk",Wasserrad,Windrad}'
+      EXPRESSION "rn1305"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{"Historische Mauer","Mauerkante links,","Mauerkante rechts,","Mauermitte,","Sonstige historische Mauer",Stadtmauer,"Stützmauer links",Stützmauermitte,"Stützmauer rechts","Ufermauer, Kaimauer"}'
+      EXPRESSION "rn2510"
+      STYLE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_flaeche AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Verkehr\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT sn_flaeche IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 25000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Verkehr / Flächen"
+      "wms_layer_group"	"/Verkehr"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"100"
+      "gml_geom_type"	"multipolygon"
+      "norGIS_maxprio"	"400"
+      "norGIS_zindex"	"165"
+      "wfs_title"	"Flächen"
+      "norGIS_oldindex"	"19"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Flächen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l72"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "Begleitfläche"
+      EXPRESSION "1406"
+      STYLE
+        COLOR 234 255 211
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Fußgängerzone"
+      EXPRESSION "1414"
+      STYLE
+        COLOR 216 255 216
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Weg"
+      EXPRESSION "1542"
+      STYLE
+        COLOR 247 247 239
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Anleger"
+      EXPRESSION "1544"
+      STYLE
+        COLOR 255 255 255
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Landeplatz, -bahn, Vorfeld, Rollbahn"
+      EXPRESSION "1808"
+      STYLE
+        COLOR 247 247 239
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Brücke, Hochbahn/-straße"
+      EXPRESSION "1530"
+      STYLE
+        COLOR 255 255 255
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_flaeche AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Gewässer\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT sn_flaeche IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 500000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gewässer / Flächen"
+      "wms_layer_group"	"/Gewässer"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"100"
+      "gml_geom_type"	"multipolygon"
+      "norGIS_maxprio"	"300"
+      "norGIS_zindex"	"190"
+      "wfs_title"	"Flächen"
+      "norGIS_oldindex"	"31"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Flächen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l91"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "Gewässer"
+      EXPRESSION "1410"
+      STYLE
+        COLOR 226 255 255
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{"Hafendamm, Mole","Wellenbrecher, Buhne"}'
+      EXPRESSION "1308"
+      STYLE
+        COLOR 204 204 204
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{Bach,Fleet,Graben,Priel,Teich,"Untergeordnetes Gewässer"}'
+      EXPRESSION "1523"
+      STYLE
+        COLOR 226 255 255
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{Antenne,Brückenlaufkran,Drehkran,Einsteigeschacht,Freitreppe,Funkmast,"Historische Mauer",Hochofen,Kran,Laufkran,Mauer,Portalkran,Radioteleskop,Rampe,Rolltreppe,Schachtöffnung,Schöpfwerk,Solarzellen,"Sonstige historische Mauer","Sonstiges Bauwerk oder sonstige Anlage für Industrie und Gewerbe",Stadtmauer,Staumauer,"Staumauer, außer Betrieb",Stützmauer,Terrasse,Treppe,Trockendock,"Vorratsbehälter, Speicherbauwerk",Wasserrad,Windrad}'
+      EXPRESSION "1305"
+      STYLE
+        COLOR 204 204 204
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{"Historische Mauer","Mauerkante links,","Mauerkante rechts,","Mauermitte,","Sonstige historische Mauer",Stadtmauer,"Stützmauer links",Stützmauermitte,"Stützmauer rechts","Ufermauer, Kaimauer"}'
+      EXPRESSION "2510"
+      STYLE
+        COLOR 204 204 204
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_flaeche AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Industrie und Gewerbe\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT sn_flaeche IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 500000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Industrie und Gewerbe / Flächen"
+      "wms_layer_group"	"/Industrie und Gewerbe"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"100"
+      "gml_geom_type"	"multipolygon"
+      "norGIS_maxprio"	"365"
+      "norGIS_zindex"	"215"
+      "wfs_title"	"Flächen"
+      "norGIS_oldindex"	"36"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Flächen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l96"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "[1401]"
+      EXPRESSION "1401"
+      STYLE
+        COLOR 255 234 244
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "[1403]"
+      EXPRESSION "1403"
+      STYLE
+        COLOR 237 237 237
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "[1510]"
+      EXPRESSION "1510"
+      STYLE
+        COLOR 242 234 232
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "[1305]"
+      EXPRESSION "1305"
+      STYLE
+        COLOR 204 204 204
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "[1501]"
+      EXPRESSION "1501"
+      STYLE
+        COLOR 204 204 204
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Mast"
+      EXPRESSION "1306"
+      STYLE
+        COLOR 204 204 204
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_randlinie AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Verkehr\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT polygon IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Verkehr / Grenzen"
+      "wms_layer_group"	"/Verkehr"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"101"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"500"
+      "norGIS_zindex"	"228"
+      "wfs_title"	"Grenzen"
+      "norGIS_oldindex"	"20"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Grenzen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l73"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME '{"Bahnverkehr, im Bau","Flughafen, im Bau","Flugverkehr, im Bau","Hubschrauberflugplatz, im Bau","Internationaler Flughafen, im Bau","Landeplatz, Sonderlandeplatz im Bau","Regionalflughafen, im Bau","Schiffsverkehr, im Bau","Segelfluggelände, im Bau","Straßenverkehr, im Bau","Verkehrslandeplatz, im Bau"}'
+      EXPRESSION "2516"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 178 178 178
+        PATTERN
+         7.00 1.00
+        END # PATTERN
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Bahnverkehr, Platz"
+      EXPRESSION "2515"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 153 153 153
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{"Bahnhof, Bahn im Freizeitpark","Bahnhof, Bergbahn, Seilbahn","Bahnhof, Eisenbahn","Bahnhof, Güterverkehr","Bahnhof, Magnetschwebebahn","Bahnhof, Museumsbahn","Bahnhof, S-Bahn","Bahnhof, sonstige Bahnkategorie","Bahnhof, Stadtbahn","Bahnhof, Standseilbahn","Bahnhof, Straßenbahn","Bahnhof, U-Bahn","Bahnhof, Zahnradbahn",Drehscheibe,"Haltestelle, Haltepunkt, Bahn im Freizeitpark","Haltestelle, Haltepunkt, Bergbahn, Seilbahn","Haltestelle, Haltepunkt, Eisenbahn","Haltestelle, Haltepunkt, Güterverkehr","Haltestelle, Haltepunkt, Magnetschwebebahn","Haltestelle, Haltepunkt, Museumsbahn","Haltestelle, Haltepunkt, S-Bahn","Haltestelle, Haltepunkt, sonstige Bahnkategorie","Haltestelle, Haltepunkt, Stadtbahn","Haltestelle, Haltepunkt, Standseilbahn","Haltestelle, Haltepunkt, Straßenbahn","Haltestelle, Haltepunkt, U-Bahn","Haltestelle, Haltepunkt, Zahnradbahn"}'
+      EXPRESSION "rn1541"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Weg"
+      EXPRESSION "rn1542"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 81 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Anleger"
+      EXPRESSION "rn1544"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 153 153 153
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Landeplatz, -bahn, Vorfeld, Rollbahn"
+      EXPRESSION "rn1808"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 81 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Schleusenkammer"
+      EXPRESSION "rn1535"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 127 127 127
+        SIZE 0.5
+        WIDTH 0.5
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Brücke, Hochbahn/-straße"
+      EXPRESSION "rn1530"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 127 127 127
+        PATTERN
+         2.00 1.00
+        END # PATTERN
+        SIZE 0.5
+        WIDTH 0.5
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "{Brückenpfeiler}"
+      EXPRESSION "rn1531"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 127 127 127
+        PATTERN
+         1.00 0.50
+        END # PATTERN
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Tunnel, Unterführung"
+      EXPRESSION "rn1533"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 127 127 127
+        PATTERN
+         0.50 1.50
+        END # PATTERN
+        SIZE 0.5
+        WIDTH 0.5
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_randlinie AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Industrie und Gewerbe\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT polygon IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Industrie und Gewerbe / Grenzen"
+      "wms_layer_group"	"/Industrie und Gewerbe"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"106"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"365"
+      "norGIS_zindex"	"240"
+      "wfs_title"	"Grenzen"
+      "norGIS_oldindex"	"37"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Grenzen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l97"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "[2515]"
+      EXPRESSION "2515"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 153 153 153
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Klärbecken"
+      EXPRESSION "rn1510"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 204 204
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "[rn1305]"
+      EXPRESSION "rn1305"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "[rn1501]"
+      EXPRESSION "rn1501"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.35
+        WIDTH 0.35
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Mast"
+      EXPRESSION "rn1306"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_randlinie AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Gebäude\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (layer NOT IN (\'ax_lagebezeichnungmitpseudonummer\',\'ax_gebaeude_dachform\',\'ax_gebaeude_funktion\',\'ax_gebaeude_geschosse\',\'ax_gebaeude_zustand\',\'ax_bauteil_dachform\',\'ax_bauteil_funktion\',\'ax_bauteil_geschosse\',\'ax_turm_funktion\')) AND NOT polygon IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 3500
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gebäude / Gebäude / Grenzen"
+      "wms_layer_group"	"/Gebäude / Gebäude"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"250"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"350"
+      "norGIS_zindex"	"300"
+      "wfs_title"	"Grenzen"
+      "norGIS_oldindex"	"8"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Grenzen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l33"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME '{Aquädukt,"Befestigung (Wall, Graben)","Denkmal, Denkstein, Standbild",Fernsprechhäuschen,Grab,"Grabhügel (Hügelgrab)","Großsteingrab (Dolmen), Hünenbett",Müllbox,"Sonstige Einrichtung in öffentlichen Bereichen","Sonstiges Bauwerk oder sonstige Einrichtung, Sonstiges","Sonstiges historisches Bauwerk oder sonstige historische Einrichtung","Wachturm (römisch), Warte",Wasserleitung}'
+      EXPRESSION "rn1330"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 153 153 153
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Gebäude unter der Erdoberfläche"
+      EXPRESSION "2032"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        PATTERN
+         0.35 0.35
+        END # PATTERN
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{"Keller, unter der Erdoberfläche","Tiefgarage, unter der Erdoberfläche (Bauteil)"}'
+      EXPRESSION "2512"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        PATTERN
+         0.35 0.35
+        END # PATTERN
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Anderes Gebäude"
+      EXPRESSION "2031"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        PATTERN
+         2.00 1.00
+        END # PATTERN
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Öffentliches Gebäude"
+      EXPRESSION "2505"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{Antenne,Brückenlaufkran,Drehkran,Einsteigeschacht,Freitreppe,Funkmast,"Historische Mauer",Hochofen,Kran,Laufkran,Mauer,Portalkran,Radioteleskop,Rampe,Rolltreppe,Schachtöffnung,Schöpfwerk,Solarzellen,"Sonstige historische Mauer","Sonstiges Bauwerk oder sonstige Anlage für Industrie und Gewerbe",Stadtmauer,Staumauer,"Staumauer, außer Betrieb",Stützmauer,Terrasse,Treppe,Trockendock,"Vorratsbehälter, Speicherbauwerk",Wasserrad,Windrad}'
+      EXPRESSION "rn1305"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Anderes Gebäude"
+      EXPRESSION "rn1501"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.35
+        WIDTH 0.35
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{"Historische Mauer","Mauerkante links,","Mauerkante rechts,","Mauermitte,","Sonstige historische Mauer",Stadtmauer,"Stützmauer links",Stützmauermitte,"Stützmauer rechts","Ufermauer, Kaimauer"}'
+      EXPRESSION "rn2510"
+      STYLE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{Arkade,"Auskragende Geschosse","Auskragende/zurückspringende Geschosse","Durchfahrt an überbauter Verkehrsstraße","Durchfahrt im Gebäude","Gebäudeteil - abweichende Geschosshöhe","Geringergeschossiger Gebäudeteil","Höhergeschossiger Gebäudeteil (nicht Hochhaus)",Keller,Loggia,"Sonstiger Gebäudeteil","Tiefgarage (Bauteil)",Treppenunterkante,"Zurückspringende Geschosse"}'
+      EXPRESSION "2507"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "aufgeständert"
+      EXPRESSION "2508"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        PATTERN
+         2.00 1.00
+        END # PATTERN
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Unterirdisch"
+      EXPRESSION "2513"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.25
+        WIDTH 0.25
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Turm im Gebäude"
+      EXPRESSION "2514"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.35
+        WIDTH 0.35
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{Brunnen,"Springbrunnen, Zierbrunnen"}'
+      EXPRESSION "rn1525"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 204 204
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_flaeche AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Gebäude\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (layer NOT IN (\'ax_lagebezeichnungmitpseudonummer\',\'ax_gebaeude_dachform\',\'ax_gebaeude_funktion\',\'ax_gebaeude_geschosse\',\'ax_gebaeude_zustand\',\'ax_bauteil_dachform\',\'ax_bauteil_funktion\',\'ax_bauteil_geschosse\',\'ax_turm_funktion\')) AND NOT sn_flaeche IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gebäude / Gebäude / Flächen"
+      "wms_layer_group"	"/Gebäude / Gebäude"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"290"
+      "gml_geom_type"	"multipolygon"
+      "norGIS_maxprio"	"350"
+      "norGIS_zindex"	"302"
+      "wfs_title"	"Flächen"
+      "norGIS_oldindex"	"7"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Flächen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l32"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "Wohngebäude"
+      EXPRESSION "1301"
+      STYLE
+        COLOR 153 153 153
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Anderes Gebäude"
+      EXPRESSION "1304"
+      STYLE
+        COLOR 204 204 204
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Gebäude für öffentliche Zwecke"
+      EXPRESSION "1309"
+      STYLE
+        COLOR 255 127 127
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Mauer"
+      EXPRESSION "1305"
+      STYLE
+        COLOR 204 204 204
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Aussichtsturm"
+      EXPRESSION "1501"
+      STYLE
+        COLOR 204 204 204
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Mauer"
+      EXPRESSION "2510"
+      STYLE
+        COLOR 204 204 204
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Brunnen"
+      EXPRESSION "1525"
+      STYLE
+        COLOR 226 255 255
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_randlinie AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Rechtliche Festlegungen\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT polygon IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 25000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Rechtliche Festlegungen / Grenzen"
+      "wms_layer_group"	"/Rechtliche Festlegungen"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"340"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"430"
+      "norGIS_zindex"	"385"
+      "wfs_title"	"Grenzen"
+      "norGIS_oldindex"	"14"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Grenzen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l63"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "Schutzgebiet"
+      EXPRESSION "rn1703"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 127 255 127
+        PATTERN
+         4.00 1.00
+        END # PATTERN
+        SIZE 1
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Bau-, Raum-, Bodenordnungsrecht"
+      EXPRESSION "rn1704"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 255 127 127
+        PATTERN
+         4.00 1.00
+        END # PATTERN
+        SIZE 1
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,polygon AS geom,sn_randlinie AS signaturnummer FROM \"public\".po_polygons WHERE thema=\'Flurstücke\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (NOT layer IN (\'ax_flurstueck_nummer\',\'ax_flurstueck_zuordnung\',\'ax_flurstueck_zuordnung_pfeil\')) AND NOT polygon IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Flurstücke / Flächen / Grenzen"
+      "wms_layer_group"	"/Flurstücke / Flächen"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"700"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"700"
+      "norGIS_zindex"	"700"
+      "wfs_title"	"Grenzen"
+      "norGIS_oldindex"	"0"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Grenzen"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l1"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "Flurstücksgrenze"
+      EXPRESSION "2028"
+      STYLE
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        OUTLINECOLOR 0 0 0
+        SIZE 0.35
+        WIDTH 0.35
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,line AS geom,signaturnummer FROM \"public\".po_lines WHERE thema=\'Topographie\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT line IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Topographie / Linien"
+      "wms_layer_group"	"/Topographie"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"101"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"101"
+      "norGIS_zindex"	"101"
+      "wfs_title"	"Linien"
+      "norGIS_oldindex"	"16"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Linien"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l69"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE LINE
+    UNITS METERS
+    CLASS
+      NAME "Damm, Wall, Deich, Graben, Knick, Wallkante"
+      EXPRESSION "2620"
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.1818
+      END # STYLE
+      STYLE
+        COLOR 81 0 0
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,line AS geom,signaturnummer FROM \"public\".po_lines WHERE thema=\'Gewässer\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT line IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gewässer / Linien"
+      "wms_layer_group"	"/Gewässer"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"130"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"340"
+      "norGIS_zindex"	"200"
+      "wfs_title"	"Linien"
+      "norGIS_oldindex"	"33"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Linien"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l93"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE LINE
+    UNITS METERS
+    CLASS
+      NAME '{Lahnung,Schöpfwerk,"Sonstiges Bauwerk im Gewässerbereich",Sperrwerk,Wehr}'
+      EXPRESSION "2003"
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.1818
+      END # STYLE
+      STYLE
+        COLOR 0 0 0
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{Bach,Fleet,Graben,"Grabenkante links","Grabenkante rechts",Grabenmitte,Linienverkehr,"Untergeordnetes Gewässer"}'
+      EXPRESSION "2592"
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.1818
+      END # STYLE
+      STYLE
+        COLOR 0 204 204
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{"Bach, verdolt","Bach, verrohrt, unterirdisch, bedeckt",Durchlass,"Fleet, verdolt","Fleet, verrohrt, unterirdisch, bedeckt","Graben, verdolt","Graben, verrohrt, unterirdisch, bedeckt",Rohrdurchlass,Siel,"Untergeordnetes Gewässer, verdolt","Untergeordnetes Gewässer, verrohrt, unterirdisch, bedeckt"}'
+      EXPRESSION "2560"
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.1818
+      END # STYLE
+      STYLE
+        COLOR 0 204 204
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        PATTERN
+         0.35 0.35
+        END # PATTERN
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,line AS geom,signaturnummer FROM \"public\".po_lines WHERE thema=\'Verkehr\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT line IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Verkehr / Linien"
+      "wms_layer_group"	"/Verkehr"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"130"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"300"
+      "norGIS_zindex"	"232"
+      "wfs_title"	"Linien"
+      "norGIS_oldindex"	"21"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Linien"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l74"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE LINE
+    UNITS METERS
+    CLASS
+      NAME '{"Fußweg (Weg, Pfad, Steig)","Karren- und Ziehweg","Rad- und Fußweg (Weg, Pfad, Steig)","Radweg (Weg, Pfad, Steig)","Reitweg (Weg, Pfad, Steig)",Skaterstrecke,"Weg, Pfad, Steig"}'
+      EXPRESSION "2535"
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.3535
+      END # STYLE
+      STYLE
+        COLOR 81 0 0
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        PATTERN
+         2.00 3.20
+        END # PATTERN
+        SIZE 0.35
+        WIDTH 0.35
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{"Bahn im Freizeitpark, Gleis","Bergbahn, Seilbahn, Gleis","Eisenbahn, Gleis","Güterverkehr, Gleis","Magnetschwebebahn, Gleis","Museumsbahn, Gleis","S-Bahn, Gleis","Sonstige Bahnkategorie, Gleis","Stadtbahn, Gleis","Standseilbahn, Gleis","Straßenbahn, Gleis","U-Bahn, Gleis","Zahnradbahn, Gleis"}'
+      EXPRESSION "2525"
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.1818
+      END # STYLE
+      STYLE
+        COLOR 0 0 0
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "{Fahrbahnbegrenzungslinie}"
+      EXPRESSION "2527"
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.1818
+      END # STYLE
+      STYLE
+        COLOR 153 153 153
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "{Steg}"
+      EXPRESSION "2530"
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.505
+      END # STYLE
+      STYLE
+        COLOR 127 127 127
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        SIZE 0.5
+        WIDTH 0.5
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,line AS geom,signaturnummer FROM \"public\".po_lines WHERE thema=\'Gebäude\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (layer NOT IN (\'ax_lagebezeichnungmitpseudonummer\',\'ax_gebaeude_dachform\',\'ax_gebaeude_funktion\',\'ax_gebaeude_geschosse\',\'ax_gebaeude_zustand\',\'ax_bauteil_dachform\',\'ax_bauteil_funktion\',\'ax_bauteil_geschosse\',\'ax_turm_funktion\')) AND NOT line IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 3500
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gebäude / Gebäude / Linien"
+      "wms_layer_group"	"/Gebäude / Gebäude"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"270"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"330"
+      "norGIS_zindex"	"303"
+      "wfs_title"	"Linien"
+      "norGIS_oldindex"	"9"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Linien"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l34"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE LINE
+    UNITS METERS
+    CLASS
+      NAME "Zaun"
+      EXPRESSION "2002"
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.1818
+      END # STYLE
+      STYLE
+        COLOR 0 0 0
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME '{Arkade,"Auskragende Geschosse","Auskragende/zurückspringende Geschosse","Durchfahrt an überbauter Verkehrsstraße","Durchfahrt im Gebäude","Gebäudeteil - abweichende Geschosshöhe","Geringergeschossiger Gebäudeteil","Höhergeschossiger Gebäudeteil (nicht Hochhaus)",Keller,Loggia,"Sonstiger Gebäudeteil","Tiefgarage (Bauteil)",Treppenunterkante,"Zurückspringende Geschosse"}'
+      EXPRESSION "2507"
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.1818
+      END # STYLE
+      STYLE
+        COLOR 0 0 0
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Offene Gebäudelinie"
+      EXPRESSION "2305"
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.1818
+      END # STYLE
+      STYLE
+        COLOR 0 0 0
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        PATTERN
+         2.00 1.00
+        END # PATTERN
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,line AS geom,signaturnummer FROM \"public\".po_lines WHERE thema=\'Industrie und Gewerbe\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT line IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Industrie und Gewerbe / Linien"
+      "wms_layer_group"	"/Industrie und Gewerbe"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"360"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"360"
+      "norGIS_zindex"	"360"
+      "wfs_title"	"Linien"
+      "norGIS_oldindex"	"38"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Linien"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l98"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE LINE
+    UNITS METERS
+    CLASS
+      NAME "[2524]"
+      EXPRESSION "2524"
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.1818
+      END # STYLE
+      STYLE
+        COLOR 0 0 0
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,line AS geom,signaturnummer FROM \"public\".po_lines WHERE thema=\'Politische Grenzen\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (layer NOT LIKE \'ax_flurstueck%\') AND NOT line IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Politische Grenzen / Grenzen / Linien"
+      "wms_layer_group"	"/Politische Grenzen / Grenzen"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"451"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"457"
+      "norGIS_zindex"	"453"
+      "wfs_title"	"Linien"
+      "norGIS_oldindex"	"13"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Linien"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l44"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE LINE
+    UNITS METERS
+    CLASS
+      NAME "Gemarkungsgrenze"
+      EXPRESSION "2014"
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 1.01
+      END # STYLE
+      STYLE
+        COLOR 242 127 255
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        PATTERN
+         5.00 8.00
+        END # PATTERN
+        SIZE 1
+      END # STYLE
+      STYLE
+        COLOR 242 127 255
+        INITIALGAP 7.5
+        LINEJOIN ROUND
+        PATTERN
+         0.00 3.00 0.00 10.00
+        END # PATTERN
+        SIZE 1
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Gemeindegrenze"
+      EXPRESSION "2022"
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 1.01
+      END # STYLE
+      STYLE
+        COLOR 242 127 255
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        PATTERN
+         5.00 5.00
+        END # PATTERN
+        SIZE 1
+      END # STYLE
+      STYLE
+        COLOR 242 127 255
+        INITIALGAP 7.5
+        LINEJOIN ROUND
+        PATTERN
+         0.00 10.00
+        END # PATTERN
+        SIZE 1
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Landesgrenze"
+      EXPRESSION "2018"
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+      END # STYLE
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 2.02
+      END # STYLE
+      STYLE
+        COLOR 242 127 255
+        LINECAP SQUARE
+        LINEJOIN ROUND
+        PATTERN
+         8.00 3.50 8.00 9.00
+        END # PATTERN
+        SIZE 2
+        WIDTH 2
+      END # STYLE
+      STYLE
+        COLOR 242 127 255
+        INITIALGAP 24
+        LINEJOIN ROUND
+        PATTERN
+         0.00 28.50
+        END # PATTERN
+        SIZE 2
+        WIDTH 2
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,line AS geom,signaturnummer FROM \"public\".po_lines WHERE thema=\'Flurstücke\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (layer IN (\'ax_flurstueck_nummer\',\'ax_flurstueck_zuordnung\',\'ax_flurstueck_zuordnung_pfeil\')) AND NOT line IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Flurstücke / Nummern / Linien"
+      "wms_layer_group"	"/Flurstücke / Nummern"
+      "gml_featureid"	"ogc_fid"
+      "norGIS_minprio"	"700"
+      "gml_geom_type"	"multiline"
+      "norGIS_maxprio"	"700"
+      "norGIS_zindex"	"700"
+      "wfs_title"	"Linien"
+      "norGIS_oldindex"	"1"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Linien"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l6"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    TYPE LINE
+    UNITS METERS
+    CLASS
+      NAME "Zuordnungspfeil"
+      EXPRESSION "2004"
+      STYLE
+        COLOR 255 255 255
+        OPACITY 0
+        WIDTH 0.1818
+      END # STYLE
+      STYLE
+        COLOR 0 0 0
+        LINEJOIN ROUND
+        SIZE 0.18
+        WIDTH 0.18
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,point AS geom,drehwinkel_grad,signaturnummer FROM \"public\".po_points WHERE thema=\'Gebäude\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (layer IN (\'ax_gebaeude_funktion\',\'ax_bauteil_funktion\',\'ax_turm_funktion\')) AND NOT point IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 3500
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gebäude / Funktion / Punkte"
+      "wms_layer_group"	"/Gebäude / Funktion"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "wfs_title"	"Punkte"
+      "norGIS_oldindex"	"4"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Punkte"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l21"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      NAME "Hotel"
+      EXPRESSION "3302"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.0077
+        SYMBOL "norGIS_alkis3302_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Jugendherberge"
+      EXPRESSION "3303"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 6.0047
+        SYMBOL "norGIS_alkis3303_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Parkhaus"
+      EXPRESSION "3309"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 6.2313
+        SYMBOL "norGIS_alkis3309_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Toilette"
+      EXPRESSION "3311"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.0077
+        SYMBOL "norGIS_alkis3311_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Theater"
+      EXPRESSION "3314"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 6.0274
+        SYMBOL "norGIS_alkis3314_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Bibliothek"
+      EXPRESSION "3315"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.0077
+        SYMBOL "norGIS_alkis3315_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Kirche"
+      EXPRESSION "3316"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 10.0381
+        SYMBOL "norGIS_alkis3316_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Synagoge"
+      EXPRESSION "3317"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3.5122
+        SYMBOL "norGIS_alkis3317_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Kapelle"
+      EXPRESSION "3318"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3.0137
+        SYMBOL "norGIS_alkis3318_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Moschee"
+      EXPRESSION "3319"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.189
+        SYMBOL "norGIS_alkis3319_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Krankenhaus"
+      EXPRESSION "3321"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.0077
+        SYMBOL "norGIS_alkis3321_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Kindergarten"
+      EXPRESSION "3323"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 6.2313
+        SYMBOL "norGIS_alkis3323_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Polizei"
+      EXPRESSION "3324"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.0077
+        SYMBOL "norGIS_alkis3324_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Feuerwehr"
+      EXPRESSION "3326"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.0077
+        SYMBOL "norGIS_alkis3326_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Tiefgarage"
+      EXPRESSION "3336"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 6.2313
+        SYMBOL "norGIS_alkis3336_1"
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,point AS geom,drehwinkel_grad,signaturnummer FROM \"public\".po_points WHERE thema=\'Gebäude\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (layer NOT IN (\'ax_lagebezeichnungmitpseudonummer\',\'ax_gebaeude_dachform\',\'ax_gebaeude_funktion\',\'ax_gebaeude_geschosse\',\'ax_gebaeude_zustand\',\'ax_bauteil_dachform\',\'ax_bauteil_funktion\',\'ax_bauteil_geschosse\',\'ax_turm_funktion\')) AND NOT point IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 3500
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gebäude / Gebäude / Punkte"
+      "wms_layer_group"	"/Gebäude / Gebäude"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "wfs_title"	"Punkte"
+      "norGIS_oldindex"	"10"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Punkte"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l35"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      NAME "(3527)"
+      EXPRESSION "3527"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3.8294
+        SYMBOL "norGIS_alkis3527_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Brunnen / Gasquelle, Mofette / Heilquelle"
+      EXPRESSION "3529"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 2.6965
+        SYMBOL "norGIS_alkis3529_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Denkmal"
+      EXPRESSION "3532"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 4.866
+        SYMBOL "norGIS_alkis3532_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Zaun"
+      EXPRESSION "3580"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 0.6
+        SYMBOL "norGIS_alkis3580_1"
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,point AS geom,drehwinkel_grad,signaturnummer FROM \"public\".po_points WHERE thema=\'Topographie\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT point IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Topographie / Punkte"
+      "wms_layer_group"	"/Topographie"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "wfs_title"	"Punkte"
+      "norGIS_oldindex"	"17"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Punkte"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l70"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      NAME "Busch, Hecke, Knick"
+      EXPRESSION "3601"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 1.4275
+        SYMBOL "norGIS_alkis3601_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Felsen, Felsblock, Felsnadel"
+      EXPRESSION "3627"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.3476
+        SYMBOL "norGIS_alkis3627_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Busch, Hecke, Knick"
+      EXPRESSION "3632"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 2
+        SYMBOL "norGIS_alkis3632_1"
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,point AS geom,drehwinkel_grad,signaturnummer FROM \"public\".po_points WHERE thema=\'Verkehr\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT point IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Verkehr / Punkte"
+      "wms_layer_group"	"/Verkehr"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "wfs_title"	"Punkte"
+      "norGIS_oldindex"	"22"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Punkte"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l75"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      NAME "S-Bahnhof"
+      EXPRESSION "3330"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.5062
+        SYMBOL "norGIS_alkis3330_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Fußweg"
+      EXPRESSION "3424"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.0077
+        SYMBOL "norGIS_alkis3424_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Radweg"
+      EXPRESSION "3426"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.0077
+        SYMBOL "norGIS_alkis3426_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Rad- und Fußweg"
+      EXPRESSION "3428"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.0077
+        SYMBOL "norGIS_alkis3428_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Parkplatz"
+      EXPRESSION "3432"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.4836
+        SYMBOL "norGIS_alkis3432_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "(3436)"
+      EXPRESSION "3436"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 12.0321
+        SYMBOL "norGIS_alkis3436_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Haltepunkt"
+      EXPRESSION "3578"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3.1949
+        SYMBOL "norGIS_alkis3578_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Leuchtfeuer"
+      EXPRESSION "3590"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.4382
+        SYMBOL "norGIS_alkis3590_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "(3637)"
+      EXPRESSION "3637"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3.9201
+        SYMBOL "norGIS_alkis3637_1"
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,point AS geom,drehwinkel_grad,signaturnummer FROM \"public\".po_points WHERE thema=\'Vegetation\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT point IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Vegetation / Punkte"
+      "wms_layer_group"	"/Vegetation"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "wfs_title"	"Punkte"
+      "norGIS_oldindex"	"29"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Punkte"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l85"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      NAME "Gras"
+      EXPRESSION "3413"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 0.4305
+        SYMBOL "norGIS_alkis3413_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Garten"
+      EXPRESSION "3421"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 1.8127
+        SYMBOL "norGIS_alkis3421_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Baumschule"
+      EXPRESSION "3446"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 4.192
+        SYMBOL "norGIS_alkis3446_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Weingarten"
+      EXPRESSION "3448"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3
+        SYMBOL "norGIS_alkis3448_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Obstplantage"
+      EXPRESSION "3450"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 4.192
+        SYMBOL "norGIS_alkis3450_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Laubwald"
+      EXPRESSION "3458"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3.3763
+        SYMBOL "norGIS_alkis3458_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Nadelwald"
+      EXPRESSION "3460"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 4.8491
+        SYMBOL "norGIS_alkis3460_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Mischwald"
+      EXPRESSION "3462"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.3703
+        SYMBOL "norGIS_alkis3462_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Mischwald"
+      EXPRESSION "3470"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 4.8718
+        SYMBOL "norGIS_alkis3470_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Heide"
+      EXPRESSION "3474"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 1.9261
+        SYMBOL "norGIS_alkis3474_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Moor"
+      EXPRESSION "3476"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 1.6088
+        SYMBOL "norGIS_alkis3476_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Sumpf"
+      EXPRESSION "3478"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 1.065
+        SYMBOL "norGIS_alkis3478_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Unland"
+      EXPRESSION "3480"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 4.0107
+        SYMBOL "norGIS_alkis3480_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Düne, Sand"
+      EXPRESSION "3484"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3.0137
+        SYMBOL "norGIS_alkis3484_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Nadelbaum"
+      EXPRESSION "3597"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 4.8638
+        SYMBOL "norGIS_alkis3597_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Laubbaum"
+      EXPRESSION "3599"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 4.567
+        SYMBOL "norGIS_alkis3599_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Busch, Hecke, Knick"
+      EXPRESSION "3601"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 1.4275
+        SYMBOL "norGIS_alkis3601_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Röhricht, Schilf"
+      EXPRESSION "3603"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3.7388
+        SYMBOL "norGIS_alkis3603_1"
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,point AS geom,drehwinkel_grad,signaturnummer FROM \"public\".po_points WHERE thema=\'Gewässer\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT point IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gewässer / Punkte"
+      "wms_layer_group"	"/Gewässer"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "wfs_title"	"Punkte"
+      "norGIS_oldindex"	"34"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Punkte"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l94"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      NAME "(3482)"
+      EXPRESSION "3482"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3.2856
+        SYMBOL "norGIS_alkis3482_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Fließgewässer"
+      EXPRESSION "3488"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 1.2236
+        SYMBOL "norGIS_alkis3488_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Gewässer"
+      EXPRESSION "3490"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 1.3369
+        SYMBOL "norGIS_alkis3490_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "(3593)"
+      EXPRESSION "3593"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 4.192
+        SYMBOL "norGIS_alkis3593_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Schöpfwerk"
+      EXPRESSION "3594"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 4.192
+        SYMBOL "norGIS_alkis3594_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "[3653]"
+      EXPRESSION "3653"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 1.2009
+        SYMBOL "norGIS_alkis3653_1"
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,point AS geom,drehwinkel_grad,signaturnummer FROM \"public\".po_points WHERE thema=\'Industrie und Gewerbe\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT point IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Industrie und Gewerbe / Punkte"
+      "wms_layer_group"	"/Industrie und Gewerbe"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "wfs_title"	"Punkte"
+      "norGIS_oldindex"	"39"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Punkte"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l99"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      NAME "Kraftwerk"
+      EXPRESSION "3403"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 7.3643
+        SYMBOL "norGIS_alkis3403_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Umspannstation"
+      EXPRESSION "3404"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 7.3643
+        SYMBOL "norGIS_alkis3404_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Torf"
+      EXPRESSION "3407"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 4.5092
+        SYMBOL "norGIS_alkis3407_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Windrad"
+      EXPRESSION "3501"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 6.8565
+        SYMBOL "norGIS_alkis3501_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Solarzellen"
+      EXPRESSION "3502"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 4.3733
+        SYMBOL "norGIS_alkis3502_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Mast"
+      EXPRESSION "3504"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 2.1979
+        SYMBOL "norGIS_alkis3504_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Antenne / Funkmast"
+      EXPRESSION "3506"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.2585
+        SYMBOL "norGIS_alkis3506_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Schornstein, Schlot, Esse"
+      EXPRESSION "3508"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3.3763
+        SYMBOL "norGIS_alkis3508_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Drehkran"
+      EXPRESSION "3512"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.1886
+        SYMBOL "norGIS_alkis3512_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Portalkran"
+      EXPRESSION "3513"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.189
+        SYMBOL "norGIS_alkis3513_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Laufkran, Brückenlaufkran"
+      EXPRESSION "3514"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.235
+        SYMBOL "norGIS_alkis3514_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Umformer"
+      EXPRESSION "3521"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3.6935
+        SYMBOL "norGIS_alkis3521_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Vorratsbehälter"
+      EXPRESSION "3522"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 3.1949
+        SYMBOL "norGIS_alkis3522_1"
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CLASSITEM "signaturnummer"
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,point AS geom,drehwinkel_grad,signaturnummer FROM \"public\".po_points WHERE thema=\'Sport und Freizeit\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND NOT point IS NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Sport und Freizeit / Punkte"
+      "wms_layer_group"	"/Sport und Freizeit"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "wfs_title"	"Punkte"
+      "norGIS_oldindex"	"43"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Punkte"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l104"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS METERS
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      NAME "Skating"
+      EXPRESSION "3409"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 7.3643
+        SYMBOL "norGIS_alkis3409_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Zoo"
+      EXPRESSION "3410"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 7.3643
+        SYMBOL "norGIS_alkis3410_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Safaripark, Wildpark"
+      EXPRESSION "3411"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 7.3643
+        SYMBOL "norGIS_alkis3411_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Campingplatz"
+      EXPRESSION "3412"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 7.7268
+        SYMBOL "norGIS_alkis3412_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Rasen"
+      EXPRESSION "3413"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 0.4305
+        SYMBOL "norGIS_alkis3413_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Park"
+      EXPRESSION "3415"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 5.6648
+        SYMBOL "norGIS_alkis3415_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Kleingarten"
+      EXPRESSION "3419"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 6.4126
+        SYMBOL "norGIS_alkis3419_1"
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "Spielplatz, Bolzplatz"
+      EXPRESSION "3423"
+      STYLE
+        ANGLE [drehwinkel_grad]
+        MINSIZE 1
+        SIZE 7.3643
+        SYMBOL "norGIS_alkis3423_1"
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Flurstücke\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (layer IN (\'ax_flurstueck_nummer\',\'ax_flurstueck_zuordnung\',\'ax_flurstueck_zuordnung_pfeil\')) AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Flurstücke / Nummern / Beschriftungen"
+      "wms_layer_group"	"/Flurstücke / Nummern"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"2"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l8"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Gebäude\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (layer IN (\'ax_gebaeude_dachform\',\'ax_bauteil_dachform\')) AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 3500
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gebäude / Dachform / Beschriftungen"
+      "wms_layer_group"	"/Gebäude / Dachform"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"3"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l17"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Gebäude\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (layer IN (\'ax_gebaeude_funktion\',\'ax_bauteil_funktion\',\'ax_turm_funktion\')) AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 3500
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gebäude / Funktion / Beschriftungen"
+      "wms_layer_group"	"/Gebäude / Funktion"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"5"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l22"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Gebäude\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (layer IN (\'ax_gebaeude_geschosse\',\'ax_bauteil_geschosse\')) AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 3500
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gebäude / Geschosse / Beschriftungen"
+      "wms_layer_group"	"/Gebäude / Geschosse"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"6"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l27"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Gebäude\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND (layer NOT IN (\'ax_lagebezeichnungmitpseudonummer\',\'ax_gebaeude_dachform\',\'ax_gebaeude_funktion\',\'ax_gebaeude_geschosse\',\'ax_gebaeude_zustand\',\'ax_bauteil_dachform\',\'ax_bauteil_funktion\',\'ax_bauteil_geschosse\',\'ax_turm_funktion\')) AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 3500
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gebäude / Gebäude / Beschriftungen"
+      "wms_layer_group"	"/Gebäude / Gebäude"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"11"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l36"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Lagebezeichnungen\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Lagebezeichnungen / Beschriftungen"
+      "wms_layer_group"	"/Lagebezeichnungen"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"12"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l41"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Rechtliche Festlegungen\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 25000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Rechtliche Festlegungen / Beschriftungen"
+      "wms_layer_group"	"/Rechtliche Festlegungen"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"15"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l66"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Topographie\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Topographie / Beschriftungen"
+      "wms_layer_group"	"/Topographie"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"18"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l71"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Verkehr\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Verkehr / Beschriftungen"
+      "wms_layer_group"	"/Verkehr"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"23"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l76"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Friedhöfe\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Friedhöfe / Beschriftungen"
+      "wms_layer_group"	"/Friedhöfe"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"26"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l81"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Vegetation\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Vegetation / Beschriftungen"
+      "wms_layer_group"	"/Vegetation"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"30"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l86"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Gewässer\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 5000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Gewässer / Beschriftungen"
+      "wms_layer_group"	"/Gewässer"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"35"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l95"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Industrie und Gewerbe\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Industrie und Gewerbe / Beschriftungen"
+      "wms_layer_group"	"/Industrie und Gewerbe"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"40"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l100"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Sport und Freizeit\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Sport und Freizeit / Beschriftungen"
+      "wms_layer_group"	"/Sport und Freizeit"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"44"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l105"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    CONNECTION "dbname='alkis_hh' host=localhost port=5432 user='postgres' password='postgres'"
+    CONNECTIONTYPE POSTGIS
+    DATA "geom FROM (SELECT ogc_fid,gml_id,text,f.umn AS color_umn,lower(art) || coalesce(\'-\'||effekt,\'\') ||CASE WHEN stil=\'Kursiv\' THEN \'-italic\' WHEN stil=\'Fett\' THEN \'-bold\' WHEN stil=\'Fett, Kursiv\' THEN \'-bold-italic\' ELSE \'\' END || CASE WHEN coalesce(fontsperrung,0)=0 THEN \'\' ELSE \'-\'||(fontsperrung/0.25)::int END AS font_umn,0.25/0.0254*skalierung*grad_pt AS size_umn,CASE coalesce(l.vertikaleausrichtung,s.vertikaleausrichtung)  WHEN \'oben\' THEN \'L\' WHEN \'Basis\' THEN \'U\' ELSE \'C\' END || CASE coalesce(l.horizontaleausrichtung,s.horizontaleausrichtung) WHEN \'linksbündig\' THEN \'L\' WHEN \'rechtsbündig\' THEN \'R\' ELSE \'C\' END AS position_umn,drehwinkel_grad,point AS geom FROM \"public\".po_labels l JOIN \"public\".alkis_schriften s ON s.signaturnummer=l.signaturnummer AND s.katalog=1 JOIN \"public\".alkis_farben f ON s.farbe=f.id WHERE thema=\'Wohnbauflächen\' AND modell && ARRAY[\'DLKM\',\'DKKM1000\']::varchar[] AND point IS NOT NULL) AS foo USING UNIQUE ogc_fid USING SRID=25832"
+    EXTENT 461485.132 5885077.482 588010.382 6011602.732
+    LABELITEM "text"
+    MAXSCALEDENOM 10000
+    METADATA
+      "wms_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "wfs_srs"	"EPSG:4326 EPSG:4647 EPSG:31466 EPSG:31467 EPSG:31468 EPSG:25832 EPSG:25833"
+      "norGIS_label"	"ALKIS / Wohnbauflächen / Beschriftungen"
+      "wms_layer_group"	"/Wohnbauflächen"
+      "gml_featureid"	"ogc_fid"
+      "gml_geom_type"	"multipoint"
+      "norGIS_zindex"	"999"
+      "wfs_title"	"Beschriftungen (Punkte)"
+      "norGIS_oldindex"	"47"
+      "gml_include_items"	"all"
+      "gml_geometries"	"geom"
+      "wms_title"	"Beschriftungen (Punkte)"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "l110"
+    PROCESSING "CLOSE_CONNECTION=DEFER"
+    PROJECTION
+      "init=epsg:25832"
+    END # PROJECTION
+    SIZEUNITS INCHES
+    STATUS OFF
+    SYMBOLSCALEDENOM 1000
+    TYPE POINT
+    UNITS METERS
+    CLASS
+      LABEL
+        ANGLE [drehwinkel_grad]
+        FONT [font_umn]
+        SIZE [size_umn]
+        BUFFER 2
+        COLOR [color_umn]
+        FORCE TRUE
+        OFFSET 0 0
+        OUTLINECOLOR 255 255 255
+        PARTIALS TRUE
+        POSITION [position_umn]
+        PRIORITY 10
+        SHADOWSIZE 0 0
+      END # LABEL
+    END # CLASS
+  END # LAYER
+
+END # MAP

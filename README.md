@@ -1,6 +1,6 @@
-# ALKIS WMS für Hamburg
+# ALKIS-WMS für die Stadt Hamburg
 
-Ein automatisierter Workflow zur Bereitstellung eines OGC-konformen **WMS-Dienstes** (Web Map Service) für die **ALKIS-Daten** (Amtliches Liegenschaftskataster-Informationssystem) der Stadt Hamburg mithilfe von **Bash-Skripten** und **MapServer**.
+Ein teilautomatisierter Workflow zur Bereitstellung eines OGC-konformen **WMS-Dienstes** (Web Map Service) für die **ALKIS-Daten** (Amtliches Liegenschaftskataster-Informationssystem) der Stadt Hamburg mithilfe von **Bash-Skripten** und **MapServer**.
 
 ## 🔍 Projektbeschreibung
 
@@ -14,7 +14,7 @@ Ziel ist es, den Import, die Transformation und die Ausspielung dieser Daten in 
 
 - **Bash** – Automatisierung der Verarbeitungsschritte
 - **MapServer** – Bereitstellung der Mapfiles
-- **ogr2ogr / GDAL** – Umwandlung der NAS-Daten in ALKIS-Schema der Firma Norbit [alkisimport - Fa. norBIT](https://github.com/norBIT/alkisimport/tree/master)
+- **ogr2ogr / GDAL** – Umwandlung der NAS-Daten in das ALKIS-Schemata der Fa. Norbit [alkisimport](https://github.com/norBIT/alkisimport/tree/master)
 - **NAS-Daten** – Bereitgestellt von:  
   [Transparenzportal Hamburg – ALKIS ausgewählte Daten](https://suche.transparenz.hamburg.de/dataset/alkis-ausgewaehlte-daten-hamburg5)
 
@@ -26,7 +26,7 @@ Ziel ist es, den Import, die Transformation und die Ausspielung dieser Daten in 
 - Allgemeine Anpassungen wie EPSG, SCHEMA, AVOIDDUPES, HISTORIE oder USECOPY in ***alkis-import.sh***
 - Prozessierung via ***create_alkis_hh.sh***
     - Umwandlung der NAS-Daten in ALKIS-Schemata für Postgres-DB
-    - weiteres Infos: [hier](https://www.norbit.de/74)
+    - weitere Infos: [hier](https://www.norbit.de/74)
 - Bereitstellung ALKIS-Mapfiles (`.map`-Datei) in Schwarz-Weiß und in Farbe (**Grundlage**: [GitHub-Projekt](https://github.com/norBIT/alkisplugin))
 - Erstellung eines MapServer-Dienstes kann [hier](https://github.com/wm87/wms-opendata/tree/main/mapserver) nachvollzogen werden => **Ziel: Bereitstellung eines OGC WMS-Endpunkts** zur Integration in GIS-Anwendungen wie QGIS
 
@@ -79,6 +79,31 @@ Installiere u.a. folgende Abhängigkeiten:
 ```bash
 sudo apt install postgresql-17 postgresql-17-postgis-3 gdal-bin postgis mapserver-bin cgi-mapserver unzip
 ```
+
+### 2. Anpassung der Skripte
+
+* DB-Template anpassen: ***setup_Schema_PostNAS.sh***
+* Pfade anpassen: ***import_All.sh***
+* Pfade anpassen: ***create_alkis_hh.sh***
+
+### 3. Mapserver-Dienst einrichten
+
+hier: https://github.com/wm87/wms-opendata/tree/main/mapserver
+
+### 4. Nutzung ALKIS-WMS in GIS-Software
+
+| Aspekt             | Beschreibung                                              |
+|-----------------------|-----------------------------------------------------------|
+| **Dienstname (Color)** | ALKIS Hamburg farbig                                     |
+| **WMS-URL (Color)**   | `http://localhost/wms/hh/alkis_hh_color.fcgi`             |
+| **Dienstname (SW)**   | ALKIS Hamburg schwarz/weiß                                |
+| **WMS-URL (SW)**      | `http://localhost/wms/hh/alkis_hh_sw.fcgi`                |
+| **WMS-Version**       | 1.1.1 oder 1.3.0 (je nach unterstützter Version der Software) |
+| **Koordinatensysteme**| ETRS89 / UTM32N (EPSG:25832) oder andere unterstützte SRS |
+| **Nutzung in QGIS**   | Menü: "Layer" → "WMS/WMTS-Layer hinzufügen" → URL einfügen |
+| **Hinweis**           | Lokaler Zugriff erforderlich (läuft nur auf localhost)    |
+
+
 
 ## 🗓️ Datenquelle & Lizenz
 Quelle: Transparenzportal Hamburg

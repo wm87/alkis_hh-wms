@@ -27,7 +27,7 @@ Ziel ist es, den Import, die Transformation und die Ausspielung dieser Daten in 
 - Prozessierung via ***create_alkis_hh.sh***
     - Umwandlung der NAS-Daten in ALKIS-Schemata für Postgres-DB
     - weiteres Infos: [hier](https://www.norbit.de/74)
-- Bereitstellung ALKIS-Mapfiles (`.map`-Datei) in schwarz-weiß und in Farbe (**Grundlage**: [GitHub-Projekt](https://github.com/norBIT/alkisplugin))
+- Bereitstellung ALKIS-Mapfiles (`.map`-Datei) in Schwarz-Weiß und in Farbe (**Grundlage**: [GitHub-Projekt](https://github.com/norBIT/alkisplugin))
 - Erstellung eines MapServer-Dienstes kann [hier](https://github.com/wm87/wms-opendata/tree/main/mapserver) nachvollzogen werden => **Ziel: Bereitstellung eines OGC WMS-Endpunkts** zur Integration in GIS-Anwendungen wie QGIS
 
 ---

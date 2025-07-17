@@ -94,16 +94,19 @@ hier: https://github.com/wm87/wms-opendata/tree/main/mapserver
 
 | Aspekt             | Beschreibung                                              |
 |-----------------------|-----------------------------------------------------------|
-| **Dienstname (Color)** | ALKIS Hamburg farbig                                     |
 | **WMS-URL (Color)**   | `http://localhost/wms/hh/alkis_hh_color.fcgi`             |
-| **Dienstname (SW)**   | ALKIS Hamburg schwarz/weiß                                |
 | **WMS-URL (SW)**      | `http://localhost/wms/hh/alkis_hh_sw.fcgi`                |
 | **WMS-Version**       | 1.1.1 oder 1.3.0 (je nach unterstützter Version der Software) |
 | **Koordinatensysteme**| ETRS89 / UTM32N (EPSG:25832) oder andere unterstützte SRS |
 | **Nutzung in QGIS**   | Menü: "Layer" → "WMS/WMTS-Layer hinzufügen" → URL einfügen |
-| **Hinweis**           | Lokaler Zugriff erforderlich (läuft nur auf localhost)    |
 
+## ALKIS-WMS in Farbe
 
+![ALKIS_COLOR](alkis_color.png "alkis_color")
+
+## ALKIS-WMS in SW
+
+![ALKIS_SW](alkis_sw.png "alkis_sw")
 
 ## 🗓️ Datenquelle & Lizenz
 Quelle: Transparenzportal Hamburg

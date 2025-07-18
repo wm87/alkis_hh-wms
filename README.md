@@ -114,30 +114,26 @@ Pull Requests, Verbesserungsvorschläge oder Erweiterungen sind willkommen! Bitt
 ## 🛡️ Haftungsausschluss
 Dieses Projekt ist ein Community-Projekt und nicht offiziell von der Stadt Hamburg oder einem Amt bereitgestellt. Es erfolgt keine Gewährleistung für Aktualität oder Vollständigkeit der dargestellten Daten.
 
-# Lizenzübersicht
+## Lizenzübersicht
 
-## Software und Werkzeuge
+### Software und Werkzeuge
 
 - **alkisimport (Firma norBIT)**  
   Lizenz: [GNU General Public License Version 2 (GPL-2.0)](https://github.com/norBIT/alkisimport/blob/master/LICENSE)  
   Dieses Tool/Skript wird extern verwendet. Integration in eigenen Code unterliegt GPL-2.0.
 
-- **Eigenes Projekt**  
-  Lizenz: [MIT License](https://opensource.org/licenses/MIT) (oder deine Wunschlizenz)  
-  Dein eigener Quellcode steht unter dieser Lizenz.
-
 - **GDAL / ogr2ogr**  
   Lizenz: [MIT License](https://opensource.org/licenses/MIT)  
   Open-Source-Werkzeug zur Datenkonvertierung.
 
-## Datensätze
+### Genutzte Datensätze zur Prozessierung
 
-- **ALKIS-Daten Hamburg (Stand April 2024)**  
+- **ALKIS-Daten Hamburg (2025)**  
   Quelle: Freie und Hansestadt Hamburg, Landesbetrieb Geoinformation und Vermessung (LGV)  
   Lizenz: [Datenlizenz Deutschland – Namensnennung 2.0 (dl-de/by-2.0)](https://www.govdata.de/dl-de/by-2-0)  
   Nutzung nur mit korrektem Quellenvermerk erlaubt.
 
-## Wichtiger Hinweis
+### Wichtiger Hinweis
 
 Die Lizenz für Software und die Lizenz für die Geodaten sind getrennt zu betrachten und müssen jeweils eigenständig eingehalten werden. Die Nutzung der norBIT-Software unterliegt der GPL-2.0, die ALKIS-Daten der dl-de/by-2.0.
 
